@@ -85,7 +85,7 @@ function Navi() {
           to="/"
           style={{ fontSize: "3rem" }}
         >
-          <span style={{ color: "#ff5733" }}>Hari & Spot</span>
+          <span style={{ color: "#ff5733" }}>Adharsh & Spot</span>
         </Link>
 
         {/* Toggler for mobile view */}
